@@ -14,5 +14,3 @@ img: "assets/img/portfolio/bacino.png"
         <p>Questo browser non supporta la visione dei PDF. Scarica il PDF per visionarlo: <a href="/assets/pdf/bacino.pdf">Download PDF</a>.</p>
 
 </object>
-
-diodeidio

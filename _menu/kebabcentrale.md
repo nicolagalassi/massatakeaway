@@ -2,7 +2,7 @@
 layout: page
 title: Kebab Centrale
 hide_title: true
-img: "assets/img/portfolio/pizza.png"
+img: "assets/img/portfolio/kebabcentrale.png"
 ---
 
 ![image]({{ page.img | relative_url }})
