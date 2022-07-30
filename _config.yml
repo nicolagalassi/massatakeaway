@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "massatakeaway"
-url: "https://nonnawarrior.github.io"
+baseurl: ""
+url: "https://nonnawarrior.github.io/massatakeaway"
 
 # THEME-SPECIFIC CONFIGURATION
 title: MassaTakeAway                                  # site's title
