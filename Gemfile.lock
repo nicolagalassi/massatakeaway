@@ -9,6 +9,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7-x64-mingw32)
+    fastimage (2.2.6)
     ffi (1.15.5-x64-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
@@ -29,6 +30,9 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 2.0)
+    jekyll-cloudinary (1.14.1)
+      fastimage (~> 2.0)
+      jekyll (>= 3.6, < 5)
     jekyll-feed (0.15.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-maps (2.4.0)
@@ -74,6 +78,8 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  jekyll
+  jekyll-cloudinary
   jekyll-maps
   type-on-strap
   webrick (~> 1.7)
