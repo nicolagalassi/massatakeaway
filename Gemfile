@@ -7,7 +7,6 @@ gem "type-on-strap"
 
 gem "webrick", "~> 1.7"
 gem 'jekyll-maps'
-gem 'jekyll'
 
 group :jekyll_plugins do
   gem 'jekyll-cloudinary'
