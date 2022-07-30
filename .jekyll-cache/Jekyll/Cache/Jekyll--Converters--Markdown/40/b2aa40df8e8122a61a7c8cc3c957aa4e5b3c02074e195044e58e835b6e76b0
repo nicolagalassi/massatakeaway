@@ -1,0 +1,171 @@
+I"�<!-- Portfolio Grid Section -->
+<div class="portfolio-grid">
+    
+    <div class="portfolio-cell">
+        <a class="portfolio-link" data-keyboard="true" href="/menu/amisushi">
+            <div class="caption" title="Ami Sushi">
+                <div class="caption-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                </div>
+            </div>
+            <img alt="" class="" src="/assets/img/portfolio/pizza.png" />
+        </a>
+    </div>
+    
+    <div class="portfolio-cell">
+        <a class="portfolio-link" data-keyboard="true" href="/menu/atuttogusto">
+            <div class="caption" title="A tutto gusto - Rosticceria">
+                <div class="caption-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                </div>
+            </div>
+            <img alt="" class="" src="/assets/img/portfolio/pizza.png" />
+        </a>
+    </div>
+    
+    <div class="portfolio-cell">
+        <a class="portfolio-link" data-keyboard="true" href="/menu/bacino">
+            <div class="caption" title="Ristorante sul Bacino">
+                <div class="caption-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                </div>
+            </div>
+            <img alt="" class="" src="/assets/img/portfolio/bacino.png" />
+        </a>
+    </div>
+    
+    <div class="portfolio-cell">
+        <a class="portfolio-link" data-keyboard="true" href="/menu/balkanfood">
+            <div class="caption" title="Balkan Food">
+                <div class="caption-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                </div>
+            </div>
+            <img alt="" class="" src="/assets/img/portfolio/pizza.png" />
+        </a>
+    </div>
+    
+    <div class="portfolio-cell">
+        <a class="portfolio-link" data-keyboard="true" href="/menu/bonvicini">
+            <div class="caption" title="Pizzeria Bonvicini">
+                <div class="caption-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                </div>
+            </div>
+            <img alt="" class="" src="/assets/img/portfolio/pizza.png" />
+        </a>
+    </div>
+    
+    <div class="portfolio-cell">
+        <a class="portfolio-link" data-keyboard="true" href="/menu/chioscodadani">
+            <div class="caption" title="Chiosco da Dani">
+                <div class="caption-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                </div>
+            </div>
+            <img alt="" class="" src="/assets/img/portfolio/pizza.png" />
+        </a>
+    </div>
+    
+    <div class="portfolio-cell">
+        <a class="portfolio-link" data-keyboard="true" href="/menu/chioscomassa">
+            <div class="caption" title="Chiosco di Massa">
+                <div class="caption-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                </div>
+            </div>
+            <img alt="" class="" src="/assets/img/portfolio/pizza.png" />
+        </a>
+    </div>
+    
+    <div class="portfolio-cell">
+        <a class="portfolio-link" data-keyboard="true" href="/menu/dali">
+            <div class="caption" title="Pizzeria Dalì">
+                <div class="caption-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                </div>
+            </div>
+            <img alt="" class="" src="/assets/img/portfolio/dali.png" />
+        </a>
+    </div>
+    
+    <div class="portfolio-cell">
+        <a class="portfolio-link" data-keyboard="true" href="/menu/divinisapori">
+            <div class="caption" title="Divini Sapori">
+                <div class="caption-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                </div>
+            </div>
+            <img alt="" class="" src="/assets/img/portfolio/pizza.png" />
+        </a>
+    </div>
+    
+    <div class="portfolio-cell">
+        <a class="portfolio-link" data-keyboard="true" href="/menu/ellepi">
+            <div class="caption" title="Ellepi">
+                <div class="caption-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                </div>
+            </div>
+            <img alt="" class="" src="/assets/img/portfolio/ellepi.png" />
+        </a>
+    </div>
+    
+    <div class="portfolio-cell">
+        <a class="portfolio-link" data-keyboard="true" href="/menu/kebabcentrale">
+            <div class="caption" title="Kebab Centrale">
+                <div class="caption-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                </div>
+            </div>
+            <img alt="" class="" src="/assets/img/portfolio/pizza.png" />
+        </a>
+    </div>
+    
+    <div class="portfolio-cell">
+        <a class="portfolio-link" data-keyboard="true" href="/menu/labonta">
+            <div class="caption" title="Pizzeria la Bontà">
+                <div class="caption-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                </div>
+            </div>
+            <img alt="" class="" src="/assets/img/portfolio/labonta.png" />
+        </a>
+    </div>
+    
+    <div class="portfolio-cell">
+        <a class="portfolio-link" data-keyboard="true" href="/menu/pizzallegra">
+            <div class="caption" title="Pizzallegra">
+                <div class="caption-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                </div>
+            </div>
+            <img alt="" class="" src="/assets/img/portfolio/pizzallegra.png" />
+        </a>
+    </div>
+    
+    <div class="portfolio-cell">
+        <a class="portfolio-link" data-keyboard="true" href="/menu/pomodorino">
+            <div class="caption" title="il Pomodorino">
+                <div class="caption-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                </div>
+            </div>
+            <img alt="" class="" src="/assets/img/portfolio/pomodorino.png" />
+        </a>
+    </div>
+    
+    <div class="portfolio-cell">
+        <a class="portfolio-link" data-keyboard="true" href="/menu/sottocasa">
+            <div class="caption" title="Pizzeria Sottocasa">
+                <div class="caption-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                </div>
+            </div>
+            <img alt="" class="" src="/assets/img/portfolio/sottocasa.png" />
+        </a>
+    </div>
+    
+</div>
+
+:ET

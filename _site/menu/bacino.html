@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<!--
+    Type on Strap jekyll theme v2.4.3
+    Theme free for personal and commercial use under the MIT license
+    https://github.com/sylhare/Type-on-Strap/blob/master/LICENSE
+-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=0.5, maximum-scale=5">
+
+    <!-- Theme Mode-->
+    
+    <script>
+        const isAutoTheme = true;
+        document.documentElement.setAttribute('data-theme', sessionStorage.getItem('theme'))
+    </script>
+    
+
+    <!-- Main JS (navbar.js, katex_init.js and masonry_init.js)-->
+    <script defer src="/assets/js/main.min.js"></script>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/assets/css/main.css">
+
+    <!--Favicon-->
+    <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
+
+    
+
+    <!-- KaTeX 0.15.2 -->
+    
+    <script defer src="/assets/js/vendor/katex.min.js"></script>
+    <script defer src="/assets/js/vendor/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
+    
+
+    <!-- Mermaid 9.1.1 -->
+    
+    <script defer src="/assets/js/vendor/mermaid.min.js" onload="mermaid.initialize({
+      startOnLoad:true,
+      theme: 'default',
+    });"></script>
+    
+
+    <!-- Simple Jekyll Search 1.10.0 -->
+    <script src="/assets/js/vendor/simple-jekyll-search.min.js" type="text/javascript"></script>
+
+    <!-- Google Analytics / Cookie Consent -->
+    <script>
+      const cookieName = 'cookie-notice-dismissed-http://localhost:4000';
+      const isCookieConsent = 'false';
+      const analyticsName = '';
+      const analyticsNameGA4 = '';
+    </script>
+
+    
+    
+
+    <!-- seo tags -->
+    <meta property="og:image" content="http://localhost:4000/assets/img/header/pizzascura.png">
+    
+    <meta property="og:type" content="website" />
+    
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Ristorante sul Bacino | MassaTakeAway</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Ristorante sul Bacino" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="il menù che vuoi trovare quando lo cerchi." />
+<meta property="og:description" content="il menù che vuoi trovare quando lo cerchi." />
+<link rel="canonical" href="http://localhost:4000/menu/bacino" />
+<meta property="og:url" content="http://localhost:4000/menu/bacino" />
+<meta property="og:site_name" content="MassaTakeAway" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-07-30T22:13:21+02:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Ristorante sul Bacino" />
+<script type="application/ld+json">
+{"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/menu/bacino"},"@type":"BlogPosting","headline":"Ristorante sul Bacino","url":"http://localhost:4000/menu/bacino","dateModified":"2022-07-30T22:13:21+02:00","datePublished":"2022-07-30T22:13:21+02:00","description":"il menù che vuoi trovare quando lo cerchi.","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <!-- RSS -->
+    <link rel="alternate" type="application/atom+xml" title="MassaTakeAway" href="http://localhost:4000/feed.xml"/>
+    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="MassaTakeAway" />
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:title" content="Ristorante sul Bacino">
+    <meta name="twitter:description" content="            Questo browser non supporta la visione dei PDF. Scarica il PDF per visionarlo: Download PDF.    ">
+    
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:image" content="http://localhost:4000/assets/img/header/pizzascura.png">
+    <meta name="twitter:image:alt" content="Ristorante sul Bacino">
+</head>
+
+  <body>
+    <header class="site-header">
+
+    <!-- Logo and title -->
+	<div class="branding">
+        
+		<a href="/">
+			<img alt="logo img" class="avatar" src="/assets/img/logo.png" />
+		</a>
+        
+        <a class="site-title" aria-label="MassaTakeAway" href="/">
+        MassaTakeAway
+		</a>
+	</div>
+
+    <!-- Toggle menu -->
+    <nav class="clear">
+    <a aria-label="pull" id="pull" class="toggle" href="#">
+    <i class="fas fa-bars fa-lg"></i>
+    </a>
+
+    <!-- Menu -->
+    <ul class="hide">
+        
+
+        
+            
+            
+        
+            
+            <li class="separator"> | </li>
+            <li>
+                <a class="clear" aria-label="Chi siamo" title="Chi siamo" href="/about/">
+                     Chi siamo 
+                </a>
+            </li>
+            
+            
+        
+            
+            <li class="separator"> | </li>
+            <li>
+                <a class="clear" aria-label="Contattaci" title="Contattaci" href="/contact/">
+                     Contattaci 
+                </a>
+            </li>
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            
+        
+            
+            <li class="separator"> | </li>
+            <li>
+                <a class="clear" aria-label="Menù" title="Menù" href="/menu/">
+                     Menù 
+                </a>
+            </li>
+            
+            
+        
+            
+            
+        
+            
+            <li class="separator"> | </li>
+            <li>
+                <a class="clear" aria-label="Search" title="Search" href="/search/">
+                     <i class="fas fa-search" aria-hidden="true"></i>
+                    
+                </a>
+            </li>
+            
+            
+        
+            
+            
+        
+        
+        
+        <li class="separator"> | </li>
+        <li><a id="theme-toggle" title="Ristorante sul Bacino " aria-label="Ristorante sul Bacino" onclick="themeToggle()"></a></li>
+        
+    </ul>
+
+	</nav>
+</header>
+
+    <div class="content">
+      <article >
+
+  <header id="main" style="background-image: url('')">
+    <div class="title-padder">
+      
+        <div class="feature-image-padding"></div>
+      
+    </div>
+  </header>
+
+  <section class="post-content">
+  
+	<p><img src="/assets/img/portfolio/bacino.png" alt="image" /></p>
+
+<object data="/assets/pdf/bacino.pdf" type="application/pdf" width="1900px" height="1000px">
+    <embed src="/assets/pdf/bacino.pdf" />
+        <p>Questo browser non supporta la visione dei PDF. Scarica il PDF per visionarlo: <a href="/assets/pdf/bacino.pdf">Download PDF</a>.</p>
+    
+</object>
+
+  
+  </section>
+
+
+  <!-- Tag list for portfolio -->
+
+
+</article>
+
+    </div>
+    <footer class="site-footer">
+    <p class="text">
+        Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+</p>
+            <div class="footer-icons">
+                <ul>
+                <!-- Social icons from Font Awesome, if enabled -->
+                
+<li>
+    <a feed.xml href="/feed.xml"
+       title="Segui il feed RSS"
+       target="_blank">
+        <span class="fa-stack fa-lg">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
+        </span>
+    </a>
+</li>
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        
+        
+        
+        
+        <li>
+            <a href="https://github.com/NonnaWarrior"
+               title="Seguici su Github"
+               target="_blank"
+               rel="noopener">
+            <span class="fa-stack fa-lg">
+              <i class="fas fa-circle fa-stack-2x"></i>
+              <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+            </span>
+            </a>
+        </li>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        
+        
+        
+        
+        <li>
+            <a href="https://t.me/NickGalaxy"
+               title="Seguici su Telegram"
+               target="_blank"
+               rel="noopener">
+            <span class="fa-stack fa-lg">
+              <i class="fas fa-circle fa-stack-2x"></i>
+              <i class="fab fa-telegram fa-stack-1x fa-inverse"></i>
+            </span>
+            </a>
+        </li>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+                </ul>
+            </div>
+</footer>
+
+
+
+  </body>
+</html>
