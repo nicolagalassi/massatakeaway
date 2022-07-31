@@ -5,9 +5,9 @@ img: "https://res.cloudinary.com/dbwupuwda/image/upload/v1659219351/Locali/dali.
 hide_title: true
 ---
 
-![image]({{ page.img | relative_url }})
+![image](https://res.cloudinary.com/dbwupuwda/image/upload/c_fill,h_136,q_auto,w_600/v1659219351/Locali/dali.png)
 
-![dali1](https://res.cloudinary.com/dbwupuwda/image/upload/v1659219377/Menu/dali1_l3pcno.jpg)
-![dali2](https://res.cloudinary.com/dbwupuwda/image/upload/v1659219376/Menu/dali2_zfonri.jpg) 
-![dali3](https://res.cloudinary.com/dbwupuwda/image/upload/v1659219375/Menu/dali3_auxxwh.jpg)
+![dali1](https://res.cloudinary.com/dbwupuwda/image/upload/f_auto,q_auto:good/v1659219377/Menu/dali1_l3pcno.jpg)
+![dali2](https://res.cloudinary.com/dbwupuwda/image/upload/f_auto,q_auto:good/v1659219376/Menu/dali2_zfonri.jpg) 
+![dali3](https://res.cloudinary.com/dbwupuwda/image/upload/f_auto,q_auto:good/v1659219375/Menu/dali3_auxxwh.jpg)
 

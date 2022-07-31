@@ -52,27 +52,6 @@ sass:
   style: compressed
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed, jekyll-maps]
 exclude: [".jekyll-cache", ".jekyll-metadata", ".idea", "vendor/*", "assets/node_modules/*"]
-
-cloudinary:
-  cloud_name: "dbwupuwda"
-  only_prod: false
-  verbose: false
-  presets:
-    default:
-      min_width: 320
-      max_width: 1600
-      fallback_max_width: 800
-      steps: 5
-      sizes: "(min-width: 50rem) 50rem, 90vw"
-    onethird:
-      min_width: 110
-      max_width: 535
-      fallback_max_width: 300
-      steps: 3
-      sizes: "(min-width: 50rem) 17rem, 30vw"
-      attributes:
-        class: "one3rd"
-        loading: "lazy"
     
 
 # theme: type-on-strap                                  # if using the theme as a jekyll theme gem
