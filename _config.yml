@@ -9,7 +9,7 @@ avatar: assets/img/logo.png                       # Empty for no avatar in navba
 favicon: assets/img/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: "il menù che vuoi trovare quando lo cerchi."  # Change Blog header text
+header_text: "il menù che vuoi quando lo cerchi."  # Change Blog header text
 header_feature_image: https://res.cloudinary.com/dbwupuwda/image/upload/v1659219506/pizzascura.png
 header_feature_image_responsive: false
 footer_text: >
