@@ -6,7 +6,7 @@ url: "https://www.massatakeaway.it"
 title: MassaTakeAway                                  # site's title
 description: "il menù che vuoi trovare quando lo cerchi."      # used by search engines
 avatar: assets/img/logo.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+favicon: assets/img/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: "il menù che vuoi trovare quando lo cerchi."  # Change Blog header text
