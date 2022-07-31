@@ -6,3 +6,5 @@ img: "https://res.cloudinary.com/dbwupuwda/image/upload/v1659219354/Locali/pomod
 ---
 
 ![image]({{ page.img | relative_url }})
+
+# Menù in fase di inserimento

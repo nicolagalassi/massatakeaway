@@ -8,12 +8,17 @@ tags: [Page]
 
 ### In costruzione...
 
-<form name="contact" netlify>
+# Se hai trovato un menù non aggiornato scrivici per avvisarci.
+
+<form name="contact" method="POST" data-netlify="true">
   <p>
-    <label>Nome <input type="text" name="name" /></label>
+    <label>Il tuo nome: <input type="text" name="name" /></label>
   </p>
   <p>
-    <label>Email <input type="email" name="email" /></label>
+    <label>La tua email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Messaggio: <textarea name="message"></textarea></label>
   </p>
   <p>
     <button type="submit">Invia</button>
