@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://nonnawarrior.github.io/massatakeaway"
+url: "https://www.massatakeaway.it"
 
 # THEME-SPECIFIC CONFIGURATION
 title: MassaTakeAway                                  # site's title
@@ -50,7 +50,7 @@ collections:
 # BUILD SETTINGS
 sass:
   style: compressed
-plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed, jekyll-maps, jekyll-cloudinary]
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed, jekyll-maps]
 exclude: [".jekyll-cache", ".jekyll-metadata", ".idea", "vendor/*", "assets/node_modules/*"]
 
 cloudinary:
