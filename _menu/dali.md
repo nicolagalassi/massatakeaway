@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pizzeria Dalì
-img: "assets/img/portfolio/dali.png"
+img: "https://res.cloudinary.com/dbwupuwda/image/upload/v1659219351/Locali/dali.png"
 hide_title: true
 ---
 

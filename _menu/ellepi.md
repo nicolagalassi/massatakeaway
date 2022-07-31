@@ -2,7 +2,7 @@
 layout: page
 title: Ellepi
 hide_title: true
-img: "assets/img/portfolio/ellepi.png"
+img: "https://res.cloudinary.com/dbwupuwda/image/upload/v1659219352/Locali/ellepi.png"
 ---
 
 ![image]({{ page.img | relative_url }})

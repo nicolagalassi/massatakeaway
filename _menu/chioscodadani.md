@@ -2,7 +2,7 @@
 layout: page
 title: Chiosco da Dani
 hide_title: true
-img: "assets/img/portfolio/dadani.png"
+img: "https://res.cloudinary.com/dbwupuwda/image/upload/v1659219351/Locali/dadani.png"
 ---
 
 ![image]({{ page.img | relative_url }})

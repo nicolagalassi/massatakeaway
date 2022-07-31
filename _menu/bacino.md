@@ -2,15 +2,9 @@
 layout: page
 title: Ristorante sul Bacino
 hide_title: true
-img: "assets/img/portfolio/bacino.png"
+img: "https://res.cloudinary.com/dbwupuwda/image/upload/v1659219350/Locali/bacino.png"
 ---
 
 ![image]({{ page.img | relative_url }})
 
-
-
-<object data="/assets/pdf/bacino.pdf" type="application/pdf" width=1900px height="1000px">
-    <embed src="/assets/pdf/bacino.pdf">
-        <p>Questo browser non supporta la visione dei PDF. Scarica il PDF per visionarlo: <a href="/assets/pdf/bacino.pdf">Download PDF</a>.</p>
-
-</object>
+{% cloudinary onethird https://res.cloudinary.com/dbwupuwda/image/upload/v1659266912/Menu/Bacino/bacino.01.jpg %}

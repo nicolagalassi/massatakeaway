@@ -78,7 +78,6 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  jekyll
   jekyll-cloudinary
   jekyll-maps
   type-on-strap

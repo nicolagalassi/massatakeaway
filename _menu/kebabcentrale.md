@@ -2,7 +2,7 @@
 layout: page
 title: Kebab Centrale
 hide_title: true
-img: "assets/img/portfolio/kebabcentrale.png"
+img: "https://res.cloudinary.com/dbwupuwda/image/upload/v1659219354/Locali/kebabcentrale.png"
 ---
 
 ![image]({{ page.img | relative_url }})
