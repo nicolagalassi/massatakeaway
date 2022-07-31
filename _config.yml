@@ -4,9 +4,9 @@ url: "https://www.massatakeaway.it"
 
 # THEME-SPECIFIC CONFIGURATION
 title: MassaTakeAway                                  # site's title
-description: "il menù che vuoi quando lo vuoi."      # used by search engines
-avatar: https://res.cloudinary.com/dbwupuwda/image/upload/v1659219497/logo.png                         # Empty for no avatar in navbar
-favicon: https://res.cloudinary.com/dbwupuwda/image/upload/v1659279938/favicon_tajnvd.ico                             # Icon displayed in the tab
+description: "i menù d'asporto della città di Massa Lombarda"      # used by search engines
+avatar: assets/img/logo.png                       # Empty for no avatar in navbar
+favicon: assets/img/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: "il menù che vuoi trovare quando lo cerchi."  # Change Blog header text
