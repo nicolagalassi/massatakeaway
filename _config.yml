@@ -4,14 +4,14 @@ url: "https://www.massatakeaway.it"
 
 # THEME-SPECIFIC CONFIGURATION
 title: MassaTakeAway                                  # site's title
-description: "il menù che vuoi trovare quando lo cerchi."      # used by search engines
-avatar: assets/img/logo.png                         # Empty for no avatar in navbar
-favicon: assets/img/favicon.ico                             # Icon displayed in the tab
+description: "il menù che vuoi quando lo vuoi."      # used by search engines
+avatar: https://res.cloudinary.com/dbwupuwda/image/upload/v1659219497/logo.png                         # Empty for no avatar in navbar
+favicon: https://res.cloudinary.com/dbwupuwda/image/upload/v1659279938/favicon_tajnvd.ico                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: "il menù che vuoi trovare quando lo cerchi."  # Change Blog header text
-header_feature_image: assets/img/header/pizzascura.png
-header_feature_image_responsive: true
+header_feature_image: https://res.cloudinary.com/dbwupuwda/image/upload/v1659219506/pizzascura.png
+header_feature_image_responsive: false
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
