@@ -5,6 +5,5 @@ hide_title: true
 img: "https://res.cloudinary.com/dbwupuwda/image/upload/v1659219348/Locali/bonvicini.png"
 ---
 
-![image]({{ page.img | relative_url }})
-
-# Menù in fase di inserimento
+![bonvi1](https://res.cloudinary.com/dbwupuwda/image/upload/q_20/v1660235881/Menu/bonvicini1_gd0c9m.jpg)
+![bonvi2](https://res.cloudinary.com/dbwupuwda/image/upload/q_20/v1660235880/Menu/bonvicini2_mebkdu.jpg)
