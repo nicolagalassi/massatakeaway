@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pizzeria Bonvicini
-hide_title: true
+hide_title: false
 img: "https://res.cloudinary.com/dbwupuwda/image/upload/v1659219348/Locali/bonvicini.png"
 ---
 
