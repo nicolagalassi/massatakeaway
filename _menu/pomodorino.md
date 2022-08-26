@@ -5,6 +5,6 @@ hide_title: true
 img: "https://res.cloudinary.com/dbwupuwda/image/upload/v1659219354/Locali/pomodorino.png"
 ---
 
-![image]({{ page.img | relative_url }})
 
-# Menù in fase di inserimento
+
+![pomodorino1](https://res.cloudinary.com/dbwupuwda/image/upload/q_70/v1661536635/Menu/pomodorino_jnx84c.jpg)
