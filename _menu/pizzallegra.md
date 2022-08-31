@@ -9,7 +9,7 @@ img: "https://res.cloudinary.com/dbwupuwda/image/upload/v1659219354/Locali/pizza
 <a href="tel:054583310" title="Numero telefono">
  <span class="fa-stack fa-lg">
     <i class="fas fa-circle fa-stack-2x"></i>
-    <i class="fa fa-phone fa-stack-1x fa-inverse"></i>
+    <i class="fas fa-phone fa-stack-1x fa-inverse fa-flip-horizontal"></i>
  </span>
 </a>
 
@@ -28,10 +28,10 @@ img: "https://res.cloudinary.com/dbwupuwda/image/upload/v1659219354/Locali/pizza
 
 ![pizzallegra1](https://res.cloudinary.com/dbwupuwda/image/upload/q_50/v1661936726/Menu/allegra1_2.jpg)
 
-***
+---
 
 ![pizzallegra3](https://res.cloudinary.com/dbwupuwda/image/upload/q_50/v1659278163/Menu/allegra3.jpg)
 
-***
+---
 
 ![pizzallegra4](https://res.cloudinary.com/dbwupuwda/image/upload/q_50/v1659219398/Menu/allegra4.jpg)
