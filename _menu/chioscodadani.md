@@ -16,7 +16,7 @@ img: "https://res.cloudinary.com/dbwupuwda/image/upload/v1659219351/Locali/dadan
 <a href="http://food.apps4all.it/APP_Chiosco-Da-Dani-Hamburger&Pizza_9" title="Pagina Facebook" target="_blank" rel="noopener">
   <span class="fa-stack fa-lg">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fab fa-play-store fa-stack-1x fa-inverse"></i>
+      <i class="fab fa-google-play fa-stack-1x fa-inverse"></i>
   </span>
 </a>
 </center>
