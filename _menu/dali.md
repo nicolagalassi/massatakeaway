@@ -21,7 +21,6 @@ hide_title: false
       <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
   </span>
 </a>
-</center>
 
 <a href="https://www.justeat.it/restaurants-pizzeriadali/menu?utm_source=google&utm_medium=organic&utm_campaign=orderaction" title="Just Eat" target="_blank" rel="noopener">
   <span class="fa-stack fa-lg">
