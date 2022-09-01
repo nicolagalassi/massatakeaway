@@ -10,10 +10,10 @@ str_next_post: "Post successivo"
 str_previous_post: "Post precedente"
 str_next_page: "Succ"
 str_previous_page: "Prec"
-str_javascript_required_disqus: "Please enable JavaScript to view comments."
-str_no_result_found: "No result found"
+str_javascript_required_disqus: "Abilita JavaScript per vedere i commenti."
+str_no_result_found: "Nessun risultato trovato"
 str_cookie_approve: "Accetto"
-str_cookie_disclaimer: "We would like to use third party cookies and scripts to improve the functionality of this website."
+str_cookie_disclaimer: "Utilizziamo cookie e script di terze parti per migliorare la funzionalità di questo sito web."
 str_months: [Gennaio, Febbraio, Marzo, Aprile, Maggio, Giugno, Luglio, Agosto, Settembre, Ottobre, Novembre, Dicembre]
 
 # Localization settings
