@@ -40,13 +40,23 @@
   }
 }
 
+//.portfolio-grid {
+//  display: grid;
+//  flex-wrap: wrap;
+//  justify-content: space-around;
+//}
+
+//.portfolio-cell {
+//  flex: 0 0 32%;
+//  margin-bottom: 40px;
+//}
+
 .portfolio-grid {
   display: grid;
   flex-wrap: wrap;
-  justify-content: space-around;
+  grid-template-columns: auto auto;
 }
 
 .portfolio-cell {
-  flex: 0 0 32%;
-  margin-bottom: 40px;
+  margin: 4px;
 }
