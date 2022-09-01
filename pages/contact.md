@@ -4,6 +4,7 @@ title : Contattaci
 permalink: /contact/
 feature-img: "assets/img/header/pizzascura.png"
 tags: [Page]
+hide: true
 ---
 
 ### In costruzione...
