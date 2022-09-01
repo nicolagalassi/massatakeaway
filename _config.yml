@@ -6,7 +6,7 @@ url: "https://www.massatakeaway.it"
 title: MassaTakeAway                                  # site's title
 description: "il menù che vuoi trovare quando lo cerchi."      # used by search engines
 avatar: assets/img/logo.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+favicon: assets/img/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: "il menù che vuoi trovare quando lo cerchi."  # Change Blog header text
@@ -26,7 +26,7 @@ color_image: /assets/img/lineart.png                    # A bit transparent for 
 katex: false                                             # Enable if using math markup
 mermaid: false                                        # Enable mermaid-js for diagrams, use theme: base, forest, dark, default, neutral
 google_analytics: "G-7PDH8FNVKQ"                                      # Tracking ID, e.g. "UA-000000-01"
-cookie_consent: false                                   # To respect the usage of cookies
+cookie_consent: true                                   # To respect the usage of cookies
 color_theme: dark                                      # auto, dark or light
 
 # Comments
