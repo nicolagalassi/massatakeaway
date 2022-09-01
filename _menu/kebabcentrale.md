@@ -2,7 +2,7 @@
 layout: page
 title: Strada Grill - Kebab Centrale
 hide_title: false
-img: "assets/img/portfolio/kebabcentrale.jpg"
+img: "assets/img/portfolio/kebabcentrale.png"
 ---
 ---
 <center>
